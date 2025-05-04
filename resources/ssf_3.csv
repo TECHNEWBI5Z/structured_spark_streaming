@@ -1,0 +1,3 @@
+Order_ID,Customer_Name,Product_Name,Quantity,Order_Date,purchase_price,Status
+O004,Emily White,Strawberry,3,2025-03-04,3.00,Shipped
+O005,Michael Green,Grapes,8,2025-03-05,2.50,Pending

@@ -1,0 +1,2 @@
+Order_ID,Customer_Name,Product_Name,Quantity,Order_Date,purchase_price,Status
+O003,Bob Brown,Banana,7,2025-04-04,1.20,Delivered

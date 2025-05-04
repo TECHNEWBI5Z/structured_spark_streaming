@@ -1,0 +1,2 @@
+Order_ID,Customer_Name,Product_Name,Quantity,Order_Date,purchase_price,Status
+O001,John Doe,Apple,10,2025-03-01,1.50,Shipped
