@@ -29,5 +29,5 @@ The project includes a few simple resource files to help set up and run the stre
 
 ## Notes
 
-- The project uses append mode for streaming writes.
+- The project uses UPDATE mode for streaming writes.
 - Make sure the checkpoint locations are correctly configured for state management.
